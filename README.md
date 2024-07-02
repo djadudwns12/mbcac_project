@@ -133,7 +133,6 @@
 ```
 
 - 인라인 스타일 시트
-<span style="color:red">구현</span>
 
 구현 `red` 
 
@@ -144,6 +143,7 @@ $\color{#ff0000}{\textsf(색상설정)}$
 
 <p>
 <a name="code2">code2</a> [go to top](#top)
+
 ```jsp
 <%@page import="com.mbcac.testBoard.service.Pagination"%>
 <%@page import="com.mbcac.testBoard.vo.BoardVO"%>
@@ -474,14 +474,9 @@ button.cp {
 
 
 </div>
-
-	
-
-
 <div class="button-container">
     <a href="boardInput_MC.jsp"><input type="button" value="추가페이지 이동"></a>
 </div>
-
 <div class="search">
     <form action="search.jsp" method="get">
         <input type="hidden" name="cmd" value="search">
@@ -498,7 +493,5 @@ button.cp {
 </main>
 </body>
 </html>
-
-
 
 ```
