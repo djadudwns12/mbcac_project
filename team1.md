@@ -7,5 +7,7 @@
 * Repository 주소복사
 ## git 다운로드
   * user.name / user.email 등록
+    + git config --golbal user.name ="개인아이디"
+    + git config --golbal user.email ="개인이메일주소"
   * git config --list : 등록된 항목 확인
 ## github 토큰 신청 / 발급
