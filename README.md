@@ -6,7 +6,7 @@
   * 기간 : 3달
     + 1달 : 분석
     + 1달 : 설계
-    + 1달 : <span style="color:red">구현</span>
+    + 1달 : <span style="background-color: #eef;">구현</span>
       - 하위항목
       - 1주 로그인
       - 2주 게시판
@@ -129,7 +129,8 @@
 </html>
 ```
 
-```
+- 인라인 스타일 시트
 <span style="color:red">구현</span>
-```
+
+구현 `red` 
 
