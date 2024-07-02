@@ -1,1 +1,2 @@
-sadafsdfasdf
+# Team1 숙지사항
+## 로컬에서 추가된 항목
