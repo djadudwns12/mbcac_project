@@ -133,4 +133,5 @@
 <span style="color:red">구현</span>
 
 구현 `red` 
+$\color{#ff0000}{\textsf(색상설정)}$
 
