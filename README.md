@@ -6,7 +6,7 @@
   * 기간 : 3달
     + 1달 : 분석
     + 1달 : 설계
-    + 1달 : <span style="color: red">구현
+    + 1달 : <span style="color:red">구현</span>
       - 하위항목
       - 1주 로그인
       - 2주 게시판
@@ -129,4 +129,7 @@
 </html>
 ```
 
+```
+<span style="color:red">구현</span>
+```
 
