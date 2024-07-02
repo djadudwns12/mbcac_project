@@ -12,7 +12,7 @@
       - 2주 게시판
       - 3주 뉴스
  ## 아래코드를 참고하세요
- '''
+ ```
  <main>
 <h3>게시판 입력</h3>
 <div id="container">
@@ -25,4 +25,4 @@
 </form>
 <div class="buttons" ><button type="button" onclick="saveBoard()">작성</button></div>
 </div>
-'''
+```
