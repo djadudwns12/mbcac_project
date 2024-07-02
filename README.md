@@ -15,7 +15,8 @@
 3. [code3](#code3)  
 4. [code4](#code4)  
 5. [code5](#code5)  
-5. [code6](#code6)  
+5. [code6](#code6)
+6. [code7](#code7)
 
 
 ## 아래의 코드를 참고하세요
