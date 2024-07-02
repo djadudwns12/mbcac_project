@@ -8,3 +8,4 @@
 ## git 다운로드
   * user.name / user.email 등록
   * git config --list : 등록된 항목 확인
+## github 토큰 신청 / 발급
