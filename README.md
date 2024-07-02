@@ -14,7 +14,7 @@
 
 <a name="top"></a>
  ## 아래코드를 참고하세요
- <a name="code1">codd1</a>
+ <a name="code1">code1</a>
  ``` jsp
 <%@ page language="java" contentType="text/html; charset=UTF-8"
     pageEncoding="UTF-8"%>
@@ -142,8 +142,8 @@
 $\color{#ff0000}{\textsf(색상설정)}$
 
 
-<p></p>
-<a name="code2">codd2</a>
+<p>
+<a name="code2">code2</a> [go to top](#top)
 ```jsp
 <%@page import="com.mbcac.testBoard.service.Pagination"%>
 <%@page import="com.mbcac.testBoard.vo.BoardVO"%>
