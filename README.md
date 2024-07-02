@@ -133,6 +133,8 @@
 <span style="color:red">구현</span>
 
 구현 `red` 
-[github마크다운 색상설정하기] https://docs.github.com/ko/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
+
+
+[github마크다운 색상설정하기](https://docs.github.com/ko/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 $\color{#ff0000}{\textsf(색상설정)}$
 
