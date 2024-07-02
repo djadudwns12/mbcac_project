@@ -33,5 +33,5 @@
 * git commit -m "변경내용 메세지" 
 * git status : : 위에서 commit한 정보가 확인이 되는지
 * git push origin main : 최종적으로 로컬프로젝트를 원격저장소(origin)의 main브랜치에 병합한다.
-* github.com에 접속하여 해당 파일의 내용이 변경되어 있는지 확인한다.
+* github.com에 접속하여 해당 파일의 내용이 변경되어 있는지 확인한다.    
    
